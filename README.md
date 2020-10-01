@@ -1,2 +1,2 @@
-# arduino_projects_mega_collection
-Help us to create a biggest projects collections of Arduino projects.
+# Arduino Projects Mega Collection
+Repository containing a huge collection of Arduino projects.
